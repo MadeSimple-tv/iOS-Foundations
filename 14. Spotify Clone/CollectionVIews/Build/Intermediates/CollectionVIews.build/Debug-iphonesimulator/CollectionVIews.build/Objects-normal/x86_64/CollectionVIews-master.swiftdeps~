@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "3a9b4916560cf9d61e8dcf862752db1f"
+build_time: [1578600370, 881940000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/CollectionVIews/CollectionVIews/ViewController.swift": [1578600353, 237207978]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/CollectionVIews/CollectionVIews/AppDelegate.swift": [1578539288, 885334081]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/CollectionVIews/CollectionVIews/SceneDelegate.swift": [1578539288, 889744080]

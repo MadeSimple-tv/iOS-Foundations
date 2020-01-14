@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "b2e220da00009b281fdb4b138f970839"
+build_time: [1578615073, 582178000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Audio/Audio/ViewController.swift": [1578615060, 53135225]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Audio/Audio/AppDelegate.swift": [1578594576, 50525663]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Audio/Audio/SceneDelegate.swift": [1578594576, 54039211]

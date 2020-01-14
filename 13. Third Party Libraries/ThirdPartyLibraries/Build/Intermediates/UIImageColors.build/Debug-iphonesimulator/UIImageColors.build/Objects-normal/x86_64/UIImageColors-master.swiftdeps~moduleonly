@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "0bffa4783429a5dbaccf3cb6efe6cec7"
+build_time: [1578185647, 192582000]
+inputs:
+  "/Users/lee_bennett/Library/Developer/Xcode/DerivedData/ThirdPartyLibraries-fxbtngelsdaldvgbthejuznwdyhr/SourcePackages/checkouts/UIImageColors/UIImageColors/Sources/UIImageColors.swift": [1578185618, 158113905]

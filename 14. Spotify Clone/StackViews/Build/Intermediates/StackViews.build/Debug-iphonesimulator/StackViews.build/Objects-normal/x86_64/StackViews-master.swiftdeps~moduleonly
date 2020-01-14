@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "a5480d910af625215763388ad9606291"
+build_time: [1578510329, 150163000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/StackViews/StackViews/ViewController.swift": [1578510322, 278973665]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/StackViews/StackViews/AppDelegate.swift": [1578510322, 267107733]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/StackViews/StackViews/SceneDelegate.swift": [1578510322, 275578784]

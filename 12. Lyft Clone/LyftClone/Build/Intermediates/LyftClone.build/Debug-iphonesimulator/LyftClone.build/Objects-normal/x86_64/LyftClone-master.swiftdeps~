@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "bb3c1d602fa6625da0e5bf2ed077f362"
+build_time: [1578517245, 687968000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Controller/DriverViewController.swift": [1578517222, 314626016]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/View/RideQuoteCell.swift": [1578361347, 266915248]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Model/Driver.swift": [1578456116, 351531004]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Model/LocationAnnotation.swift": [1578363431, 694702935]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Model/Service/RideQuoteService.swift": [1578360420, 412636032]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Controller/RouteViewController.swift": [1578515739, 205378763]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Supporting Files/AppDelegate.swift": [1578252303, 91139534]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Model/Location.swift": [1578516696, 775044687]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Model/Service/LocationService.swift": [1578253782, 299627613]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Model/RideQuote.swift": [1578254003, 792635594]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Controller/LocationViewController.swift": [1578427719, 401759668]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Model/Service/DriverService.swift": [1578456496, 860191444]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Controller/HomeViewController.swift": [1578426386, 551311544]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Model/VehicleAnnotation.swift": [1578270453, 456610648]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/View/LocationCell.swift": [1578343315, 417977098]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/LyftClone/LyftClone/Supporting Files/SceneDelegate.swift": [1578252303, 122310566]

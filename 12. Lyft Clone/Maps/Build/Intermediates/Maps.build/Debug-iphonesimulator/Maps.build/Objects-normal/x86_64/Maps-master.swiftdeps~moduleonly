@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "93c728446620b4fee4ae438952de1eae"
+build_time: [1578177101, 722248000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Maps/Maps/ViewController.swift": [1578177101, 378461644]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Maps/Maps/AppDelegate.swift": [1578169962, 930873370]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Maps/Maps/SceneDelegate.swift": [1578169962, 934662046]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Maps/Maps/Model/LocationAnnotation.swift": [1578173678, 980696771]

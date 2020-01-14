@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "b58cd10f989e515e9cac1df4ece6b8b4"
+build_time: [1578169151, 710095000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Location/Location/ViewController.swift": [1578169114, 480644087]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Location/Location/AppDelegate.swift": [1578164327, 366866183]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Location/Location/SceneDelegate.swift": [1578164327, 371276791]

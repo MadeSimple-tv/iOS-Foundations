@@ -1,0 +1,913 @@
+[
+   {
+      "title":"Recommended Radio",
+      "subtitle":"Non stop music based on your favorite songs and artists",
+      "albums":[
+         {
+             "name":"Ultralife",
+            "image":"ultralife",
+            "followers": 85,
+            "artist":"Oh Wonder",
+            "songs":[
+               {
+                  "title":"Contrary to popular belief, Lorem Ipsum is not simply random text.",
+                  "artist":"Oh Wonder"
+               },
+               {
+                  "title":"Ultralife",
+                  "artist":"Oh Wonder"
+               },
+               {
+                  "title":"Lifetimes",
+                  "artist":"Oh Wonder"
+               },
+               {
+                  "title":"High on Humans",
+                  "artist":"Oh Wonder"
+               },
+               {
+                  "title":"All About You",
+                  "artist":"Oh Wonder"
+               },
+               {
+                  "title":"Heavy",
+                  "artist":"Oh Wonder"
+               },
+               {
+                  "title":"Bigger Than Love",
+                  "artist":"Oh Wonder"
+               },
+               {
+                  "title":"Bigger Than Love",
+                  "artist":"Oh Wonder"
+               },
+               {
+                  "title":"Heart Strings",
+                  "artist":"Oh Wonder"
+               },
+               {
+                  "title":"Slip Away",
+                  "artist":"Oh Wonder"
+               },
+               {
+                  "title":"Overgrown",
+                  "artist":"Oh Wonder"
+               },
+               {
+                  "title":"My Friends",
+                  "artist":"Oh Wonder"
+               },
+               {
+                  "title":"Waste",
+                  "artist":"Oh Wonder"
+               }
+            ]
+            
+         },
+         {
+            "songs":[
+               {
+                  "title":"Solo",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"Never Know",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"Banana Pancakes",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"Good People",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"No Other Way",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"Sitting, Waiting, Wishing",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"Staple It Together",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"Situations",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"Crying Shame",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"If I Cloud",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"Breakdown",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"Belle",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"Do You Remember",
+                  "artist":"Jack Johnson"
+               },
+               {
+                  "title":"Constellations",
+                  "artist":"Jack Johnson"
+               }
+            ],
+            "name":"In Between Dreams",
+            "image":"in-between-dreams",
+            "followers": 12,
+            "artist":"Jack Johnson"
+         },
+         {
+            "songs":[
+               {
+                  "title":"Never Be the Same",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"She Loves Control",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"Inside Out",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"Bad Things",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"Can't Help Falling In Love",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"Consequences",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"All These Years",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"Something's Gotta Give",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"Scar Tissue",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"In the Dark",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"Real Friends",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"Know No Better",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"Crown",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"Into It",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"Sangria Wine",
+                  "artist":"Camila Cabello"
+               },
+               {
+                  "title":"Havana",
+                  "artist":"Camila Cabello"
+               }
+            ],
+            "name":"Camila",
+            "image":"camila",
+            "followers": 101,
+            "artist":"Camila Cabello"
+         },
+         {
+            "songs":[
+               {
+                  "title":"All We Got",
+                  "artist":"Chance The Rapper ft. Kanye West"
+               },
+               {
+                  "title":"No Problem",
+                  "artist":"Chance The Rapper ft. Lil Wayne and 2 Chainz"
+               },
+               {
+                  "title":"Summer Friends",
+                  "artist":"Chance The Rapper ft. Jamilia Woods"
+               },
+               {
+                  "title":"D.R.A.M Sings Special",
+                  "artist":"Chance The Rapper"
+               },
+               {
+                  "title":"Blessings",
+                  "artist":"Chance The Rapper ft. Jamilia Woods"
+               },
+               {
+                  "title":"Same Drugs",
+                  "artist":"Chance The Rapper"
+               },
+               {
+                  "title":"Mixtape",
+                  "artist":"Chance The Rapper ft. Young Thug and Lil Yachty"
+               },
+               {
+                  "title":"Angels",
+                  "artist":"Chance The Rapper ft. Saba"
+               },
+               {
+                  "title":"Juke Jam",
+                  "artist":"Chance The Rapper ft. Justin Beiber and Towkio"
+               },
+               {
+                  "title":"All Night",
+                  "artist":"Chance The Rapper ft. Knox Fortune"
+               },
+               {
+                  "title":"How Great",
+                  "artist":"Chance The Rapper"
+               },
+               {
+                  "title":"Smoke Break",
+                  "artist":"Chance The Rapper ft. Future"
+               },
+               {
+                  "title":"Finish Line \/ Drown",
+                  "artist":"Chance The Rapper"
+               },
+               {
+                  "title":"Blessings",
+                  "artist":"Chance The Rapper"
+               }
+            ],
+            "name":"Coloring Book",
+            "image":"coloring-book",
+            "followers": 90,
+            "artist":"Chance The Rapper"
+         },
+         {
+            "songs":[
+               {
+                  "title":"Life of the Party",
+                  "artist":"Shawn Mendes"
+               },
+               {
+                  "title":"Stitches",
+                  "artist":"Shawn Mendes"
+               },
+               {
+                  "title":"Never Be Alone",
+                  "artist":"Shawn Mendes"
+               },
+               {
+                  "title":"Kid In Love",
+                  "artist":"Shawn Mendes"
+               },
+               {
+                  "title":"I Don't Even Know Your Name",
+                  "artist":"Shawn Mendes"
+               },
+               {
+                  "title":"Something Big",
+                  "artist":"Shawn Mendes"
+               },
+               {
+                  "title":"Strings",
+                  "artist":"Shawn Mendes"
+               },
+               {
+                  "title":"Aftertaste",
+                  "artist":"Shawn Mendes"
+               },
+               {
+                  "title":"Air",
+                  "artist":"Shawn Mendes"
+               },
+               {
+                  "title":"Crazy",
+                  "artist":"Shawn Mendes"
+               },
+               {
+                  "title":"A Little Too Much",
+                  "artist":"Shawn Mendes"
+               },
+               {
+                  "title":"This Is What It Takes",
+                  "artist":"Shawn Mendes"
+               }
+            ],
+            "name":"Handwritten",
+            "image":"handwritten",
+            "followers": 123,
+            "artist":"Shawn Mendes"
+         }
+      ]
+   },
+   {
+      "title":"Jump back in",
+      "subtitle":"Your top listens form the past few months",
+      "albums":[
+         {
+            "songs":[
+               {
+                  "title":"Money on My Mind",
+                  "artist":"Sam Smith"
+               },
+               {
+                  "title":"Good Thing",
+                  "artist":"Sam Smith"
+               },
+               {
+                  "title":"Stay with Me",
+                  "artist":"Sam Smith"
+               },
+               {
+                  "title":"Leave Your Lover",
+                  "artist":"Sam Smith"
+               },
+               {
+                  "title":"I'm Not the Only One",
+                  "artist":"Sam Smith"
+               },
+               {
+                  "title":"I've Told You Now",
+                  "artist":"Sam Smith"
+               },
+               {
+                  "title":"Like I can",
+                  "artist":"Sam Smith"
+               },
+               {
+                  "title":"Life Support",
+                  "artist":"Sam Smith"
+               },
+               {
+                  "title":"Not That Way",
+                  "artist":"Sam Smith"
+               },
+               {
+                  "title":"Lay Me Down",
+                  "artist":"Sam Smith"
+               }
+            ],
+            "name":"In the Lonely Hour",
+            "image":"in-the-lonely-hour",
+            "followers": 98,
+            "artist":"Sam Smith"
+         },
+         {
+            "songs":[
+               {
+                  "title":"What We Talkin' About",
+                  "artist":"Jay-Z"
+               },
+               {
+                  "title":"Thank You",
+                  "artist":"Jay-Z"
+               },
+               {
+                  "title":"Run This Town",
+                  "artist":"Jay-Z ft. Rihanna and Kanye West"
+               },
+               {
+                  "title":"Empire State of Mind",
+                  "artist":"Jay-Z ft. Alicia Keys"
+               },
+               {
+                  "title":"Real as It Gets",
+                  "artist":"Jay-Z ft. Jeezy"
+               },
+               {
+                  "title":"On to the Next One",
+                  "artist":"Jay-Z ft. Swizz Beatz"
+               },
+               {
+                  "title":"Off That",
+                  "artist":"Jay-Z ft. Drake"
+               },
+               {
+                  "title":"A Start Is Born",
+                  "artist":"Jay-Z ft. J. Cole"
+               },
+               {
+                  "title":"Venus vs. Mars",
+                  "artist":"Jay-Z"
+               },
+               {
+                  "title":"Already Home",
+                  "artist":"Jay-Z ft. Kid Cudi"
+               },
+               {
+                  "title":"Reminder",
+                  "artist":"Jay-Z"
+               },
+               {
+                  "title":"So Ambitious",
+                  "artist":"Jay-Z ft. Pharrell"
+               },
+               {
+                  "title":"Young Forever",
+                  "artist":"Jay-Z"
+               }
+            ],
+            "name":"The Blueprint 3",
+            "image":"the-blueprint-3",
+            "followers": 12,
+            "artist":"Jay-Z"
+         },
+         {
+            "songs":[
+               {
+                  "title":"Hold me Down",
+                  "artist":"Halsey"
+               },
+               {
+                  "title":"New Americana",
+                  "artist":"Halsey"
+               },
+               {
+                  "title":"Drive",
+                  "artist":"Halsey"
+               },
+               {
+                  "title":"Roman Holiday",
+                  "artist":"Halsey"
+               },
+               {
+                  "title":"Colors",
+                  "artist":"Halsey"
+               },
+               {
+                  "title":"Coming Down",
+                  "artist":"Halsey"
+               },
+               {
+                  "title":"Haunting",
+                  "artist":"Halsey"
+               },
+               {
+                  "title":"Control",
+                  "artist":"Halsey"
+               },
+               {
+                  "title":"Young God",
+                  "artist":"Halsey"
+               },
+               {
+                  "title":"Ghost",
+                  "artist":"Halsey"
+               }
+            ],
+            "name":"Badlands",
+            "image":"badlands",
+            "followers": 241,
+            "artist":"Halsey"
+         },
+         {
+            "songs":[
+               {
+                  "title":"S&M",
+                  "artist":"Rihanna"
+               },
+               {
+                  "title":"What's My Name",
+                  "artist":"Rihanna ft. Drake"
+               },
+               {
+                  "title":"Cheers (Drink to That)",
+                  "artist":"Rihanna"
+               },
+               {
+                  "title":"Fading",
+                  "artist":"Rihanna"
+               },
+               {
+                  "title":"Only Girl (In the World)",
+                  "artist":"Rihanna"
+               },
+               {
+                  "title":"California King Bed",
+                  "artist":"Rihanna"
+               },
+               {
+                  "title":"Man Down",
+                  "artist":"Rihanna"
+               },
+               {
+                  "title":"Raining Men",
+                  "artist":"Rihanna ft. Nicki Minaj"
+               },
+               {
+                  "title":"Complicated",
+                  "artist":"Rihanna"
+               },
+               {
+                  "title":"Skin",
+                  "artist":"Rihanna"
+               },
+               {
+                  "title":"Love the Way You Life (Part II)",
+                  "artist":"Rihanna ft. Eminem"
+               }
+            ],
+            "name":"Loud",
+            "image":"loud",
+            "followers": 76,
+            "artist":"Rihanna"
+         },
+         {
+            "songs":[
+               {
+                  "title":"Intro",
+                  "artist":"J. Cole"
+               },
+               {
+                  "title":"January 28th",
+                  "artist":"J. Cole"
+               },
+               {
+                  "title":"Wet Dreamz",
+                  "artist":"J. Cole"
+               },
+               {
+                  "title":"03' Adolescence",
+                  "artist":"J. Cole"
+               },
+               {
+                  "title":"A Tale of 2 Citiez",
+                  "artist":"J. Cole"
+               },
+               {
+                  "title":"Fire Squad",
+                  "artist":"J. Cole"
+               },
+               {
+                  "title":"St. Tropez",
+                  "artist":"J. Cole"
+               },
+               {
+                  "title":"G.O.M.D.",
+                  "artist":"J. Cole"
+               },
+               {
+                  "title":"No Role Modelz",
+                  "artist":"J. Cole"
+               },
+               {
+                  "title":"Hello",
+                  "artist":"J. Cole"
+               },
+               {
+                  "title":"Apparently",
+                  "artist":"J. Cole"
+               },
+               {
+                  "title":"Love Yourz",
+                  "artist":"J. Cole"
+               },
+               {
+                  "title":"Note to Self",
+                  "artist":"J. Cole"
+               }
+            ],
+            "name":"2014 Forest Hills Drive",
+            "image":"2014-forest-hills-drive",
+            "followers": 101,
+            "artist":"J. Cole"
+         }
+      ]
+   },
+   {
+      "title":"Summer Sounds",
+      "subtitle":"The hottest soundtrack to your summer",
+      "albums":[
+         {
+            "songs":[
+               {
+                  "title":"Honeymoon Avenue",
+                  "artist":"Ariana Grande"
+               },
+               {
+                  "title":"Baby I",
+                  "artist":"Ariana Grande"
+               },
+               {
+                  "title":"Right There",
+                  "artist":"Ariana Grande ft. Big Sean"
+               },
+               {
+                  "title":"Tattooed Heart",
+                  "artist":"Ariana Grande"
+               },
+               {
+                  "title":"Lovin' It",
+                  "artist":"Ariana Grande"
+               },
+               {
+                  "title":"Piano",
+                  "artist":"Ariana Grande"
+               },
+               {
+                  "title":"Daydreamin",
+                  "artist":"Ariana Grande"
+               },
+               {
+                  "title":"The Way",
+                  "artist":"Ariana Grande ft. Mac Miller"
+               },
+               {
+                  "title":"You'll Never Know",
+                  "artist":"Ariana Grande"
+               },
+               {
+                  "title":"Almost IS Never Enough",
+                  "artist":"Ariana Grande ft. Nathan Sykes"
+               },
+               {
+                  "title":"Popular Song",
+                  "artist":"Ariana Grande ft. Mika"
+               },
+               {
+                  "title":"Better Left Unsaid",
+                  "artist":"Ariana Grande"
+               }
+            ],
+            "name":"Yours Truly",
+            "image":"yours-truly",
+            "followers": 810,
+            "artist":"Ariana Grande"
+         },
+         {
+            "songs":[
+               {
+                  "title":"Good Morning",
+                  "artist":"Kanye West"
+               },
+               {
+                  "title":"Champion",
+                  "artist":"Kanye West"
+               },
+               {
+                  "title":"Stronger",
+                  "artist":"Kanye West"
+               },
+               {
+                  "title":"I Wonder",
+                  "artist":"Kanye West"
+               },
+               {
+                  "title":"Good Life",
+                  "artist":"Kanye West ft. T-Pain"
+               },
+               {
+                  "title":"Can't Tell Me Nothing",
+                  "artist":"Kanye West"
+               },
+               {
+                  "title":"Barry Bonds",
+                  "artist":"Kanye West ft. Lil Wayne"
+               },
+               {
+                  "title":"Flashing Lights",
+                  "artist":"Kanye West ft. Dwele"
+               },
+               {
+                  "title":"Everything I Am",
+                  "artist":"Kanye West"
+               },
+               {
+                  "title":"The Glory",
+                  "artist":"Kanye West"
+               },
+               {
+                  "title":"Homecoming",
+                  "artist":"Kanye West"
+               },
+               {
+                  "title":"Big Brother",
+                  "artist":"Kanye West"
+               },
+               {
+                  "title":"Everything I Am",
+                  "artist":"Kanye West"
+               }
+            ],
+            "name":"Graduation",
+            "image":"graduation",
+            "followers": 19,
+            "artist":"Kanye West"
+         },
+         {
+            "songs":[
+               {
+                  "title":"Keep the Family Close",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"9",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"U with Me?",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"Feel No Ways",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"Hype",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"Weston Road Floas",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"Redemption",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"With You",
+                  "artist":"Drake ft. PartyNextDoor"
+               },
+               {
+                  "title":"Faithful",
+                  "artist":"Drake ft. Pimp C and Dvsn"
+               },
+               {
+                  "title":"Still Here",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"Controlla",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"One Dance",
+                  "artist":"Drake ft. Wizkid and Kyla"
+               },
+               {
+                  "title":"Grammys",
+                  "artist":"Drake ft. Future"
+               },
+               {
+                  "title":"Childs Play",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"Pop Style",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"Too Good",
+                  "artist":"Drake ft. Rihanna"
+               },
+               {
+                  "title":"Summers Over Interlude",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"Fire & Desire",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"Views",
+                  "artist":"Drake"
+               },
+               {
+                  "title":"Hotline Bling",
+                  "artist":"Drake"
+               }
+            ],
+            "name":"Views",
+            "followers": 101,
+            "image":"views",
+            "artist":"Drake"
+         },
+         {
+            "songs":[
+               {
+                  "title":"We Owned the Night",
+                  "artist":"Lady Antebellum"
+               },
+               {
+                  "title":"Just a Kiss",
+                  "artist":"Lady Antebellum"
+               },
+               {
+                  "title":"Dancin' Away with My Heart\"",
+                  "artist":"Lady Antebellum"
+               },
+               {
+                  "title":"Friday Night",
+                  "artist":"Lady Antebellum"
+               },
+               {
+                  "title":"When You Were Mine",
+                  "artist":"Lady Antebellum"
+               },
+               {
+                  "title":"Cold as Stone",
+                  "artist":"Lady Antebellum"
+               },
+               {
+                  "title":"Singing Me Home",
+                  "artist":"Lady Antebellum"
+               },
+               {
+                  "title":"Wanted You More",
+                  "artist":"Lady Antebellum"
+               },
+               {
+                  "title":"As You Turn Away",
+                  "artist":"Lady Antebellum"
+               },
+               {
+                  "title":"Love I've Found in You",
+                  "artist":"Lady Antebellum"
+               },
+               {
+                  "title":"Somewhere Love Remains",
+                  "artist":"Lady Antebellum"
+               },
+               {
+                  "title":"Herat of the World",
+                  "artist":"Lady Antebellum"
+               }
+            ],
+            "name":"Own the Night",
+            "followers": 3,
+            "image":"own-the-night",
+            "artist":"Lady Antebellum"
+         },
+         {
+            "songs":[
+               {
+                  "title":"Get You",
+                  "artist":"Daniel Caesar ft. Kali Uchis"
+               },
+               {
+                  "title":"Best Part",
+                  "artist":"Daniel Caesar"
+               },
+               {
+                  "title":"Hold Me Down",
+                  "artist":"Daniel Caesar"
+               },
+               {
+                  "title":"Neu Roses (Transgressor's Song)",
+                  "artist":"Daniel Caesar"
+               },
+               {
+                  "title":"Loose",
+                  "artist":"Daniel Caesar"
+               },
+               {
+                  "title":"We Find Love",
+                  "artist":"Daniel Caesar"
+               },
+               {
+                  "title":"Blessed",
+                  "artist":"Daniel Caesar"
+               },
+               {
+                  "title":"Take Me Away",
+                  "artist":"Daniel Caesar ft. Syd"
+               },
+               {
+                  "title":"Transform",
+                  "artist":"Daniel Caesar ft. Charlotte Day Wilson"
+               },
+               {
+                  "title":"Freudian",
+                  "artist":"Daniel Caesar"
+               }
+            ],
+            "name":"Freudian",
+            "followers": 201,
+            "image":"freudian",
+            "artist":"Daniel Caesar"
+         }
+      ]
+   }
+]

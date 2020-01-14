@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "cd20a5ebb65bea1f75e639769b371744"
+build_time: [1578525701, 65021000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Extensions/Extensions/ViewController.swift": [1578525696, 129308759]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Extensions/Extensions/AppDelegate.swift": [1578525696, 122849234]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/Extensions/Extensions/SceneDelegate.swift": [1578525696, 127093624]
