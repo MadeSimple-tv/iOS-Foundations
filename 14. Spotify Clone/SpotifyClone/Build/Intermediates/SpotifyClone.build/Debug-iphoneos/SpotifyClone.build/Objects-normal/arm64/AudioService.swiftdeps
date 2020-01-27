@@ -1,0 +1,293 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AudioServiceDelegate"
+- "AudioService"
+provides-nominal:
+- "12SpotifyClone20AudioServiceDelegateP"
+- "12SpotifyClone12AudioServiceC"
+provides-member:
+- ["12SpotifyClone20AudioServiceDelegateP", ""]
+- ["12SpotifyClone12AudioServiceC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AVAudioPlayer"
+- "AssignmentPrecedence"
+- "AudioService"
+- "AudioServiceDelegate"
+- !private "BooleanLiteralType"
+- !private "Bundle"
+- "Double"
+- !private "FloatLiteralType"
+- "Song"
+- "StringLiteralType"
+- "Timer"
+depends-member:
+- !private ["So13AVAudioPlayerC", "currentTime"]
+- !private ["So13AVAudioPlayerC", "duration"]
+- !private ["So13AVAudioPlayerC", "init"]
+- !private ["So13AVAudioPlayerC", "pause"]
+- !private ["So13AVAudioPlayerC", "play"]
+- !private ["So13AVAudioPlayerC", "prepareToPlay"]
+- !private ["Sa", "randomElement"]
+- ["12SpotifyClone12AudioServiceC", "AVAudioPlayer"]
+- ["12SpotifyClone12AudioServiceC", "AudioService"]
+- ["12SpotifyClone12AudioServiceC", "AudioServiceDelegate"]
+- !private ["12SpotifyClone12AudioServiceC", "Bundle"]
+- ["12SpotifyClone12AudioServiceC", "Double"]
+- ["12SpotifyClone12AudioServiceC", "Song"]
+- ["12SpotifyClone12AudioServiceC", "Timer"]
+- ["12SpotifyClone12AudioServiceC", "audioPlayer"]
+- ["12SpotifyClone12AudioServiceC", "deinit"]
+- ["12SpotifyClone12AudioServiceC", "delegate"]
+- ["12SpotifyClone12AudioServiceC", "init"]
+- ["12SpotifyClone12AudioServiceC", "pause"]
+- ["12SpotifyClone12AudioServiceC", "play"]
+- ["12SpotifyClone12AudioServiceC", "resume"]
+- ["12SpotifyClone12AudioServiceC", "shared"]
+- ["12SpotifyClone12AudioServiceC", "songs"]
+- !private ["12SpotifyClone12AudioServiceC", "startTimer"]
+- !private ["12SpotifyClone12AudioServiceC", "stopTimer"]
+- ["12SpotifyClone12AudioServiceC", "timer"]
+- ["12SpotifyClone20AudioServiceDelegateP", "Double"]
+- ["12SpotifyClone20AudioServiceDelegateP", "songIsPlaying"]
+- !private ["SK", "randomElement"]
+- !private ["So8NSBundleC", "main"]
+- !private ["So8NSBundleC", "url"]
+- !private ["s7CVarArgP", "currentTime"]
+- !private ["s7CVarArgP", "duration"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "invalidate"]
+- !private ["s7CVarArgP", "main"]
+- !private ["s7CVarArgP", "pause"]
+- !private ["s7CVarArgP", "play"]
+- !private ["s7CVarArgP", "prepareToPlay"]
+- !private ["s7CVarArgP", "randomElement"]
+- !private ["s7CVarArgP", "scheduledTimer"]
+- !private ["s7CVarArgP", "url"]
+- !private ["Sl", "randomElement"]
+- !private ["10Foundation15ContiguousBytesP", "randomElement"]
+- !private ["s28CustomDebugStringConvertibleP", "currentTime"]
+- !private ["s28CustomDebugStringConvertibleP", "duration"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "invalidate"]
+- !private ["s28CustomDebugStringConvertibleP", "main"]
+- !private ["s28CustomDebugStringConvertibleP", "pause"]
+- !private ["s28CustomDebugStringConvertibleP", "play"]
+- !private ["s28CustomDebugStringConvertibleP", "prepareToPlay"]
+- !private ["s28CustomDebugStringConvertibleP", "randomElement"]
+- !private ["s28CustomDebugStringConvertibleP", "scheduledTimer"]
+- !private ["s28CustomDebugStringConvertibleP", "url"]
+- !private ["s17CustomReflectableP", "currentTime"]
+- !private ["s17CustomReflectableP", "duration"]
+- !private ["s17CustomReflectableP", "pause"]
+- !private ["s17CustomReflectableP", "play"]
+- !private ["s17CustomReflectableP", "prepareToPlay"]
+- !private ["s17CustomReflectableP", "randomElement"]
+- !private ["s23CustomStringConvertibleP", "currentTime"]
+- !private ["s23CustomStringConvertibleP", "duration"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "invalidate"]
+- !private ["s23CustomStringConvertibleP", "main"]
+- !private ["s23CustomStringConvertibleP", "pause"]
+- !private ["s23CustomStringConvertibleP", "play"]
+- !private ["s23CustomStringConvertibleP", "prepareToPlay"]
+- !private ["s23CustomStringConvertibleP", "randomElement"]
+- !private ["s23CustomStringConvertibleP", "scheduledTimer"]
+- !private ["s23CustomStringConvertibleP", "url"]
+- !private ["10Foundation12DataProtocolP", "randomElement"]
+- !private ["Se", "currentTime"]
+- !private ["Se", "duration"]
+- !private ["Se", "pause"]
+- !private ["Se", "play"]
+- !private ["Se", "prepareToPlay"]
+- !private ["Se", "randomElement"]
+- !private ["SE", "currentTime"]
+- !private ["SE", "duration"]
+- !private ["SE", "pause"]
+- !private ["SE", "play"]
+- !private ["SE", "prepareToPlay"]
+- !private ["SE", "randomElement"]
+- !private ["SQ", "currentTime"]
+- !private ["SQ", "duration"]
+- !private ["SQ", "init"]
+- !private ["SQ", "invalidate"]
+- !private ["SQ", "main"]
+- !private ["SQ", "pause"]
+- !private ["SQ", "play"]
+- !private ["SQ", "prepareToPlay"]
+- !private ["SQ", "randomElement"]
+- !private ["SQ", "scheduledTimer"]
+- !private ["SQ", "url"]
+- !private ["s25ExpressibleByArrayLiteralP", "randomElement"]
+- !private ["s23ExpressibleByNilLiteralP", "currentTime"]
+- !private ["s23ExpressibleByNilLiteralP", "duration"]
+- !private ["s23ExpressibleByNilLiteralP", "pause"]
+- !private ["s23ExpressibleByNilLiteralP", "play"]
+- !private ["s23ExpressibleByNilLiteralP", "prepareToPlay"]
+- !private ["SH", "currentTime"]
+- !private ["SH", "duration"]
+- !private ["SH", "init"]
+- !private ["SH", "invalidate"]
+- !private ["SH", "main"]
+- !private ["SH", "pause"]
+- !private ["SH", "play"]
+- !private ["SH", "prepareToPlay"]
+- !private ["SH", "randomElement"]
+- !private ["SH", "scheduledTimer"]
+- !private ["SH", "url"]
+- !private ["SM", "randomElement"]
+- !private ["10Foundation19MutableDataProtocolP", "randomElement"]
+- !private ["So8NSObjectC", "currentTime"]
+- !private ["So8NSObjectC", "duration"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "invalidate"]
+- !private ["So8NSObjectC", "main"]
+- !private ["So8NSObjectC", "pause"]
+- !private ["So8NSObjectC", "play"]
+- !private ["So8NSObjectC", "prepareToPlay"]
+- !private ["So8NSObjectC", "scheduledTimer"]
+- !private ["So8NSObjectC", "url"]
+- !private ["So8NSObjectP", "currentTime"]
+- !private ["So8NSObjectP", "duration"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "invalidate"]
+- !private ["So8NSObjectP", "main"]
+- !private ["So8NSObjectP", "pause"]
+- !private ["So8NSObjectP", "play"]
+- !private ["So8NSObjectP", "prepareToPlay"]
+- !private ["So8NSObjectP", "scheduledTimer"]
+- !private ["So8NSObjectP", "url"]
+- !private ["Sq", "currentTime"]
+- !private ["Sq", "duration"]
+- !private ["Sq", "pause"]
+- !private ["Sq", "play"]
+- !private ["Sq", "prepareToPlay"]
+- !private ["Sk", "randomElement"]
+- !private ["Sm", "randomElement"]
+- !private ["ST", "randomElement"]
+- !private ["So7NSTimerC", "invalidate"]
+- !private ["So7NSTimerC", "scheduledTimer"]
+- !private ["s14_ArrayProtocolP", "randomElement"]
+- !private ["s24_DestructorSafeContainerP", "randomElement"]
+- !private ["s19_HasContiguousBytesP", "randomElement"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "randomElement"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "currentTime"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "duration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "invalidate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "main"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "pause"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "play"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "prepareToPlay"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "scheduledTimer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "url"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "currentTime"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "duration"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "invalidate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "main"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "pause"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "play"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "prepareToPlay"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "scheduledTimer"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "url"]
+- !private ["s21_ObjectiveCBridgeableP", "currentTime"]
+- !private ["s21_ObjectiveCBridgeableP", "duration"]
+- !private ["s21_ObjectiveCBridgeableP", "pause"]
+- !private ["s21_ObjectiveCBridgeableP", "play"]
+- !private ["s21_ObjectiveCBridgeableP", "prepareToPlay"]
+- !private ["s21_ObjectiveCBridgeableP", "randomElement"]
+depends-nominal:
+- !private "So13AVAudioPlayerC"
+- !private "Sa"
+- "12SpotifyClone12AudioServiceC"
+- "12SpotifyClone20AudioServiceDelegateP"
+- !private "SK"
+- !private "So8NSBundleC"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "SH"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "So7NSTimerC"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreMIDI.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreMedia.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/simd.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Metal.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Darwin.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Foundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/AVFoundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreAudio.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/Swift.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/UIKit.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/arm64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/arm64-apple-ios.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreMIDI.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreMedia.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/simd.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/AVFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreAudio.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/Build/Products/Debug-iphoneos/UIImageColors.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9b15e695eb770efd72d45072cf04fe37"

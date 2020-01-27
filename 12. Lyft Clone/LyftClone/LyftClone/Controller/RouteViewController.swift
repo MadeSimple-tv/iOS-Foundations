@@ -83,7 +83,7 @@ class RouteViewController : UIViewController, UITableViewDataSource, UITableView
             
                 let EDGE_INSET: CGFloat = 80.0
                 let boundingMapRect = route.polyline.boundingMapRect
-                self.mapView.setVisibleMapRect(boundingMapRect, edgePadding: UIEdgeInsets(top: EDGE_INSET, left: EDGE_INSET, bottom: EDGE_INSET, right: EDGE_INSET), animated: true)
+                self.mapView.setVisibleMapRect(boundingMapRect, edgePadding: UIEdgeInsets(top: EDGE_INSET, left: EDGE_INSET, bottom: EDGE_INSET, right: EDGE_INSET), animated: false)
             }
         }
     }

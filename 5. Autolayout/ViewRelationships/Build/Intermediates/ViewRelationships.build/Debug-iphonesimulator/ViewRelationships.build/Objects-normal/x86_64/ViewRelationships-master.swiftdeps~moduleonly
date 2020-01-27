@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "d1ef1401935160fec14d43d8ccfbedcd"
+build_time: [1580051429, 710252000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/5. Autolayout/ViewRelationships/ViewRelationships/ViewController.swift": [1580051425, 174496844]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/5. Autolayout/ViewRelationships/ViewRelationships/AppDelegate.swift": [1580051425, 154674120]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/5. Autolayout/ViewRelationships/ViewRelationships/SceneDelegate.swift": [1580051425, 172651018]

@@ -1,0 +1,499 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NewReminderViewController"
+provides-nominal:
+- "12RemindersApp25NewReminderViewControllerC"
+provides-member:
+- ["12RemindersApp25NewReminderViewControllerC", ""]
+provides-dynamic-lookup:
+- "completedSwitch"
+- "datePicker"
+- "saveButtonDidTapped"
+- "titleTextField"
+- "viewDidLoad"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "Int"
+- "NewReminderViewController"
+- !private "Reminder"
+- !private "ReminderService"
+- "UIButton"
+- "UIDatePicker"
+- "UISwitch"
+- "UITextField"
+- "UIViewController"
+depends-member:
+- !private ["So15CALayerDelegateP", "date"]
+- !private ["So15CALayerDelegateP", "isOn"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "Reminder"]
+- !private ["s7CVarArgP", "ReminderService"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "completedSwitch"]
+- !private ["s7CVarArgP", "date"]
+- !private ["s7CVarArgP", "datePicker"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isOn"]
+- !private ["s7CVarArgP", "navigationController"]
+- !private ["s7CVarArgP", "popViewController"]
+- !private ["s7CVarArgP", "reminderIndex"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "titleTextField"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "Reminder"]
+- !private ["s28CustomDebugStringConvertibleP", "ReminderService"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "completedSwitch"]
+- !private ["s28CustomDebugStringConvertibleP", "date"]
+- !private ["s28CustomDebugStringConvertibleP", "datePicker"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isOn"]
+- !private ["s28CustomDebugStringConvertibleP", "navigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "popViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "reminderIndex"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "titleTextField"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s17CustomReflectableP", "date"]
+- !private ["s17CustomReflectableP", "isOn"]
+- !private ["s17CustomReflectableP", "text"]
+- !private ["s23CustomStringConvertibleP", "Reminder"]
+- !private ["s23CustomStringConvertibleP", "ReminderService"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "completedSwitch"]
+- !private ["s23CustomStringConvertibleP", "date"]
+- !private ["s23CustomStringConvertibleP", "datePicker"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isOn"]
+- !private ["s23CustomStringConvertibleP", "navigationController"]
+- !private ["s23CustomStringConvertibleP", "popViewController"]
+- !private ["s23CustomStringConvertibleP", "reminderIndex"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "titleTextField"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "date"]
+- !private ["Se", "init"]
+- !private ["Se", "isCompleted"]
+- !private ["Se", "isOn"]
+- !private ["Se", "text"]
+- !private ["Se", "title"]
+- !private ["SE", "date"]
+- !private ["SE", "init"]
+- !private ["SE", "isCompleted"]
+- !private ["SE", "isOn"]
+- !private ["SE", "text"]
+- !private ["SE", "title"]
+- !private ["SQ", "Reminder"]
+- !private ["SQ", "ReminderService"]
+- ["SQ", ""]
+- !private ["SQ", "completedSwitch"]
+- !private ["SQ", "date"]
+- !private ["SQ", "datePicker"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isOn"]
+- !private ["SQ", "navigationController"]
+- !private ["SQ", "popViewController"]
+- !private ["SQ", "reminderIndex"]
+- !private ["SQ", "text"]
+- !private ["SQ", "titleTextField"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s23ExpressibleByNilLiteralP", "date"]
+- !private ["s23ExpressibleByNilLiteralP", "isOn"]
+- !private ["s23ExpressibleByNilLiteralP", "text"]
+- !private ["SH", "Reminder"]
+- !private ["SH", "ReminderService"]
+- ["SH", ""]
+- !private ["SH", "completedSwitch"]
+- !private ["SH", "date"]
+- !private ["SH", "datePicker"]
+- !private ["SH", "init"]
+- !private ["SH", "isOn"]
+- !private ["SH", "navigationController"]
+- !private ["SH", "popViewController"]
+- !private ["SH", "reminderIndex"]
+- !private ["SH", "text"]
+- !private ["SH", "titleTextField"]
+- !private ["SH", "viewDidLoad"]
+- !private ["So8NSCodingP", "Reminder"]
+- !private ["So8NSCodingP", "ReminderService"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "completedSwitch"]
+- !private ["So8NSCodingP", "date"]
+- !private ["So8NSCodingP", "datePicker"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isOn"]
+- !private ["So8NSCodingP", "navigationController"]
+- !private ["So8NSCodingP", "popViewController"]
+- !private ["So8NSCodingP", "reminderIndex"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "titleTextField"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "Reminder"]
+- !private ["So26NSExtensionRequestHandlingP", "ReminderService"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "completedSwitch"]
+- !private ["So26NSExtensionRequestHandlingP", "datePicker"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "navigationController"]
+- !private ["So26NSExtensionRequestHandlingP", "popViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "reminderIndex"]
+- !private ["So26NSExtensionRequestHandlingP", "titleTextField"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- ["So8NSObjectC", "Int"]
+- !private ["So8NSObjectC", "Reminder"]
+- !private ["So8NSObjectC", "ReminderService"]
+- ["So8NSObjectC", "UIButton"]
+- ["So8NSObjectC", "UIDatePicker"]
+- ["So8NSObjectC", "UISwitch"]
+- ["So8NSObjectC", "UITextField"]
+- ["So8NSObjectC", "completedSwitch"]
+- !private ["So8NSObjectC", "date"]
+- ["So8NSObjectC", "datePicker"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isOn"]
+- !private ["So8NSObjectC", "navigationController"]
+- !private ["So8NSObjectC", "popViewController"]
+- ["So8NSObjectC", "reminderIndex"]
+- ["So8NSObjectC", "saveButtonDidTapped"]
+- !private ["So8NSObjectC", "text"]
+- ["So8NSObjectC", "titleTextField"]
+- ["So8NSObjectC", "viewDidLoad"]
+- !private ["So8NSObjectP", "Reminder"]
+- !private ["So8NSObjectP", "ReminderService"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "completedSwitch"]
+- !private ["So8NSObjectP", "date"]
+- !private ["So8NSObjectP", "datePicker"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isOn"]
+- !private ["So8NSObjectP", "navigationController"]
+- !private ["So8NSObjectP", "popViewController"]
+- !private ["So8NSObjectP", "reminderIndex"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "titleTextField"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- ["12RemindersApp25NewReminderViewControllerC", "Int"]
+- !private ["12RemindersApp25NewReminderViewControllerC", "Reminder"]
+- !private ["12RemindersApp25NewReminderViewControllerC", "ReminderService"]
+- ["12RemindersApp25NewReminderViewControllerC", "UIButton"]
+- ["12RemindersApp25NewReminderViewControllerC", "UIDatePicker"]
+- ["12RemindersApp25NewReminderViewControllerC", "UISwitch"]
+- ["12RemindersApp25NewReminderViewControllerC", "UITextField"]
+- ["12RemindersApp25NewReminderViewControllerC", "completedSwitch"]
+- ["12RemindersApp25NewReminderViewControllerC", "datePicker"]
+- ["12RemindersApp25NewReminderViewControllerC", "deinit"]
+- ["12RemindersApp25NewReminderViewControllerC", "init"]
+- !private ["12RemindersApp25NewReminderViewControllerC", "navigationController"]
+- ["12RemindersApp25NewReminderViewControllerC", "reminderIndex"]
+- ["12RemindersApp25NewReminderViewControllerC", "saveButtonDidTapped"]
+- ["12RemindersApp25NewReminderViewControllerC", "titleTextField"]
+- ["12RemindersApp25NewReminderViewControllerC", "viewDidLoad"]
+- !private ["Sq", "date"]
+- !private ["Sq", "isOn"]
+- !private ["Sq", "text"]
+- !private ["12RemindersApp8ReminderC", "date"]
+- !private ["12RemindersApp8ReminderC", "deinit"]
+- !private ["12RemindersApp8ReminderC", "init"]
+- !private ["12RemindersApp8ReminderC", "isCompleted"]
+- !private ["12RemindersApp8ReminderC", "title"]
+- !private ["12RemindersApp15ReminderServiceC", "create"]
+- !private ["12RemindersApp15ReminderServiceC", "getReminder"]
+- !private ["12RemindersApp15ReminderServiceC", "shared"]
+- !private ["12RemindersApp15ReminderServiceC", "update"]
+- !private ["So29UIAccessibilityIdentificationP", "date"]
+- !private ["So29UIAccessibilityIdentificationP", "isOn"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "date"]
+- !private ["So12UIAppearanceP", "isOn"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "Reminder"]
+- !private ["So21UIAppearanceContainerP", "ReminderService"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "completedSwitch"]
+- !private ["So21UIAppearanceContainerP", "date"]
+- !private ["So21UIAppearanceContainerP", "datePicker"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isOn"]
+- !private ["So21UIAppearanceContainerP", "navigationController"]
+- !private ["So21UIAppearanceContainerP", "popViewController"]
+- !private ["So21UIAppearanceContainerP", "reminderIndex"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "titleTextField"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "Reminder"]
+- !private ["So18UIContentContainerP", "ReminderService"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "completedSwitch"]
+- !private ["So18UIContentContainerP", "datePicker"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "navigationController"]
+- !private ["So18UIContentContainerP", "popViewController"]
+- !private ["So18UIContentContainerP", "reminderIndex"]
+- !private ["So18UIContentContainerP", "titleTextField"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So9UIControlC", "date"]
+- !private ["So9UIControlC", "isOn"]
+- !private ["So9UIControlC", "text"]
+- !private ["So17UICoordinateSpaceP", "date"]
+- !private ["So17UICoordinateSpaceP", "isOn"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So12UIDatePickerC", "date"]
+- !private ["So13UIDynamicItemP", "date"]
+- !private ["So13UIDynamicItemP", "isOn"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "Reminder"]
+- !private ["So18UIFocusEnvironmentP", "ReminderService"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "completedSwitch"]
+- !private ["So18UIFocusEnvironmentP", "date"]
+- !private ["So18UIFocusEnvironmentP", "datePicker"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isOn"]
+- !private ["So18UIFocusEnvironmentP", "navigationController"]
+- !private ["So18UIFocusEnvironmentP", "popViewController"]
+- !private ["So18UIFocusEnvironmentP", "reminderIndex"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "titleTextField"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "date"]
+- !private ["So11UIFocusItemP", "isOn"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "date"]
+- !private ["So20UIFocusItemContainerP", "isOn"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So24UILargeContentViewerItemP", "date"]
+- !private ["So24UILargeContentViewerItemP", "isOn"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So22UINavigationControllerC", "popViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "Reminder"]
+- !private ["So30UIPasteConfigurationSupportingP", "ReminderService"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "completedSwitch"]
+- !private ["So30UIPasteConfigurationSupportingP", "date"]
+- !private ["So30UIPasteConfigurationSupportingP", "datePicker"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isOn"]
+- !private ["So30UIPasteConfigurationSupportingP", "navigationController"]
+- !private ["So30UIPasteConfigurationSupportingP", "popViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "reminderIndex"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "titleTextField"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "Int"]
+- !private ["So11UIResponderC", "Reminder"]
+- !private ["So11UIResponderC", "ReminderService"]
+- ["So11UIResponderC", "UIButton"]
+- ["So11UIResponderC", "UIDatePicker"]
+- ["So11UIResponderC", "UISwitch"]
+- ["So11UIResponderC", "UITextField"]
+- ["So11UIResponderC", "completedSwitch"]
+- !private ["So11UIResponderC", "date"]
+- ["So11UIResponderC", "datePicker"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isOn"]
+- !private ["So11UIResponderC", "navigationController"]
+- !private ["So11UIResponderC", "popViewController"]
+- ["So11UIResponderC", "reminderIndex"]
+- ["So11UIResponderC", "saveButtonDidTapped"]
+- !private ["So11UIResponderC", "text"]
+- ["So11UIResponderC", "titleTextField"]
+- ["So11UIResponderC", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "Reminder"]
+- !private ["So30UIResponderStandardEditActionsP", "ReminderService"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "completedSwitch"]
+- !private ["So30UIResponderStandardEditActionsP", "date"]
+- !private ["So30UIResponderStandardEditActionsP", "datePicker"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isOn"]
+- !private ["So30UIResponderStandardEditActionsP", "navigationController"]
+- !private ["So30UIResponderStandardEditActionsP", "popViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "reminderIndex"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "titleTextField"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "Reminder"]
+- !private ["So16UIStateRestoringP", "ReminderService"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "completedSwitch"]
+- !private ["So16UIStateRestoringP", "datePicker"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "navigationController"]
+- !private ["So16UIStateRestoringP", "popViewController"]
+- !private ["So16UIStateRestoringP", "reminderIndex"]
+- !private ["So16UIStateRestoringP", "titleTextField"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So8UISwitchC", "isOn"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- !private ["So18UITraitEnvironmentP", "Reminder"]
+- !private ["So18UITraitEnvironmentP", "ReminderService"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "completedSwitch"]
+- !private ["So18UITraitEnvironmentP", "date"]
+- !private ["So18UITraitEnvironmentP", "datePicker"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isOn"]
+- !private ["So18UITraitEnvironmentP", "navigationController"]
+- !private ["So18UITraitEnvironmentP", "popViewController"]
+- !private ["So18UITraitEnvironmentP", "reminderIndex"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "titleTextField"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "Reminder"]
+- !private ["So23UIUserActivityRestoringP", "ReminderService"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "completedSwitch"]
+- !private ["So23UIUserActivityRestoringP", "date"]
+- !private ["So23UIUserActivityRestoringP", "datePicker"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "isOn"]
+- !private ["So23UIUserActivityRestoringP", "navigationController"]
+- !private ["So23UIUserActivityRestoringP", "popViewController"]
+- !private ["So23UIUserActivityRestoringP", "reminderIndex"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "titleTextField"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "date"]
+- !private ["So6UIViewC", "isOn"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "Int"]
+- !private ["So16UIViewControllerC", "Reminder"]
+- !private ["So16UIViewControllerC", "ReminderService"]
+- ["So16UIViewControllerC", "UIButton"]
+- ["So16UIViewControllerC", "UIDatePicker"]
+- ["So16UIViewControllerC", "UISwitch"]
+- ["So16UIViewControllerC", "UITextField"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "completedSwitch"]
+- ["So16UIViewControllerC", "datePicker"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "navigationController"]
+- !private ["So16UIViewControllerC", "popViewController"]
+- ["So16UIViewControllerC", "reminderIndex"]
+- ["So16UIViewControllerC", "saveButtonDidTapped"]
+- ["So16UIViewControllerC", "titleTextField"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "Reminder"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ReminderService"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "completedSwitch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "date"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "datePicker"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isOn"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "navigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "popViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reminderIndex"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "titleTextField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "Reminder"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "ReminderService"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "completedSwitch"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "date"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "datePicker"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "isOn"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "navigationController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "popViewController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "reminderIndex"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "titleTextField"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "date"]
+- !private ["s21_ObjectiveCBridgeableP", "isOn"]
+- !private ["s21_ObjectiveCBridgeableP", "text"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "date"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "isOn"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "12RemindersApp25NewReminderViewControllerC"
+- !private "Sq"
+- !private "12RemindersApp8ReminderC"
+- !private "12RemindersApp15ReminderServiceC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- !private "So17UICoordinateSpaceP"
+- !private "So12UIDatePickerC"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So10UIKeyInputP"
+- !private "So24UILargeContentViewerItemP"
+- !private "So22UINavigationControllerC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- !private "So8UISwitchC"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/ObjectiveC.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreImage.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/QuartzCore.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Dispatch.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Metal.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Darwin.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Foundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreFoundation.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/CoreGraphics.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/Swift.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/UIKit.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/lib/swift/SwiftOnoneSupport.swiftmodule/x86_64.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Combine.framework/Modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftinterface"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "56e6bae13ab6fd006bb8b91eb868bd9c"

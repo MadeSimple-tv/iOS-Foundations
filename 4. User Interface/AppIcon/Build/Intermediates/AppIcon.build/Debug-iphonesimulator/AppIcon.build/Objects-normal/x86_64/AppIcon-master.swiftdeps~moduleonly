@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "1ccece84f5d04c78b695ad19b79841e3"
+build_time: [1580158288, 511699000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/4. User Interface/AppIcon/AppIcon/ViewController.swift": [1580158285, 648666289]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/4. User Interface/AppIcon/AppIcon/AppDelegate.swift": [1580158285, 641899022]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/4. User Interface/AppIcon/AppIcon/SceneDelegate.swift": [1580158285, 646404548]

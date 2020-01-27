@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "2245ab42087fcde729726deb3c836969"
+build_time: [1579539311, 983066000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/Model/Song.swift": [1578618538, 491146182]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/Model/Category.swift": [1578618559, 457553895]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/Supporting Files/AppDelegate.swift": [1578616397, 543157690]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/View/AlbumCell.swift": [1578624439, 505635562]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/View/CategoryCell.swift": [1578701186, 507357790]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/Controller/HomeViewController.swift": [1578898955, 526162197]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/Model/Service/UserService.swift": [1578878312, 473571957]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/Model/Service/CategoryService.swift": [1578618978, 425805517]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/Supporting Files/SceneDelegate.swift": [1578616397, 552236782]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/Model/User.swift": [1578878160, 547090632]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/View/SongCell.swift": [1578706797, 370962650]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/Model/Album.swift": [1578712809, 935877523]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/Controller/SongViewController.swift": [1578899324, 780102427]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/Model/Service/AudioService.swift": [1578876477, 412837925]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/14. Spotify Clone/SpotifyClone/SpotifyClone/Controller/AlbumViewController.swift": [1578898955, 647336040]

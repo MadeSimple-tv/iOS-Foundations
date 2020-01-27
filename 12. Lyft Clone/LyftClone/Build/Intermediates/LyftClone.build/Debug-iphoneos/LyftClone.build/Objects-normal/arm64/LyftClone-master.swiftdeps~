@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "4c1878c03d588a8c98823ca46caaa1f2"
+build_time: [1579559015, 933280000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Controller/DriverViewController.swift": !private [1579558992, 967245616]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/View/RideQuoteCell.swift": [1578361347, 266915248]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Model/Driver.swift": [1578456116, 351531004]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Model/LocationAnnotation.swift": [1578363431, 694702935]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Model/Service/RideQuoteService.swift": [1578360420, 412636032]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Controller/RouteViewController.swift": [1579558861, 876777682]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Supporting Files/AppDelegate.swift": [1578252303, 91139534]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Model/Location.swift": [1578516696, 775044687]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Model/Service/LocationService.swift": [1578253782, 299627613]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Model/RideQuote.swift": [1578254003, 792635594]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Controller/LocationViewController.swift": [1579558725, 759277393]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Model/Service/DriverService.swift": [1578456496, 860191444]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Controller/HomeViewController.swift": [1579539380, 40766926]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Model/VehicleAnnotation.swift": [1578270453, 456610648]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/View/LocationCell.swift": [1578343315, 417977098]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/12. Lyft Clone/LyftClone/LyftClone/Supporting Files/SceneDelegate.swift": [1578252303, 122310566]

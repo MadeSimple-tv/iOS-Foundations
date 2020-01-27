@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "432a6a7a21cd69313cee1f7ca36c29db"
+build_time: [1579539103, 170054000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/10. Reminders App/RemindersApp/RemindersApp/Model/Reminder.swift": [1577998636, 100161887]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/10. Reminders App/RemindersApp/RemindersApp/Controller/NewReminderViewController.swift": [1577997014, 343859816]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/10. Reminders App/RemindersApp/RemindersApp/View/ReminderCell.swift": [1577997195, 619513310]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/10. Reminders App/RemindersApp/RemindersApp/Controller/FavoriteReminderViewController.swift": [1577847732, 199398003]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/10. Reminders App/RemindersApp/RemindersApp/Supporting Files/AppDelegate.swift": [1577839880, 958030769]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/10. Reminders App/RemindersApp/RemindersApp/Supporting Files/SceneDelegate.swift": [1577839880, 972255969]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/10. Reminders App/RemindersApp/RemindersApp/Model/ReminderService.swift": [1577999731, 916188617]
+  "/Users/lee_bennett/Desktop/MadeSimple/Courses/Code/iOS-Foundations/10. Reminders App/RemindersApp/RemindersApp/Controller/RemindersViewController.swift": [1579505884, 975251990]

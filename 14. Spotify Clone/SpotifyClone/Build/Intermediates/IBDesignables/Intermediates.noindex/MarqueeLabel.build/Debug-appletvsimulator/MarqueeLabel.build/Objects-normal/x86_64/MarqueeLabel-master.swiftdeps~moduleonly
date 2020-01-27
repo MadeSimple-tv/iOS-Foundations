@@ -1,5 +1,5 @@
 version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
-options: "607ba1615927e23a405cd2ad6c578748"
-build_time: [1578899058, 759707000]
+options: "965db0cb2ae677f08b10429e6a1c66a2"
+build_time: [1579543675, 834664000]
 inputs:
-  "/Users/lee_bennett/Library/Developer/Xcode/DerivedData/SpotifyClone-dvbdhrsmrssiwbakgblwnbjmoiog/SourcePackages/checkouts/MarqueeLabel/Sources/MarqueeLabel.swift": [1578898914, 42311077]
+  "/Users/lee_bennett/Library/Developer/Xcode/DerivedData/SpotifyClone-asimgyzaphecvyaxdsyqwstqsxyn/SourcePackages/checkouts/MarqueeLabel/Sources/MarqueeLabel.swift": [1579539301, 625633702]

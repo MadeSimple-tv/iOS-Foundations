@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "9823f6386eb7395bacb8c920e812b6f1"
+build_time: [1577751630, 435870000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/TableViewExample/TableViewExample/ViewController.swift": [1577751630, 204919787]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/TableViewExample/TableViewExample/AppDelegate.swift": [1577744848, 443775679]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/TableViewExample/TableViewExample/AvatarCell.swift": [1577751162, 441815109]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/TableViewExample/TableViewExample/SceneDelegate.swift": [1577744848, 448386342]

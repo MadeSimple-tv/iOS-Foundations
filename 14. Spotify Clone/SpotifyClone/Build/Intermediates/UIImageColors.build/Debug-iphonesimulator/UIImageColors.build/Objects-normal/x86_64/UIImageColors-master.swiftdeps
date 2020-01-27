@@ -1,5 +1,0 @@
-version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
-options: "10a56d5674b80e94b557f7c6edb6fdbf"
-build_time: [1578777320, 409889000]
-inputs:
-  "/Users/lee_bennett/Library/Developer/Xcode/DerivedData/SpotifyClone-dvbdhrsmrssiwbakgblwnbjmoiog/SourcePackages/checkouts/UIImageColors/UIImageColors/Sources/UIImageColors.swift": [1578777276, 4490675]

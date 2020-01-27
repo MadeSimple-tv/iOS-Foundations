@@ -55,7 +55,8 @@ class HomeViewController: UIViewController, UITableViewDataSource, UITableViewDe
     
     func locationManager(_ manager: CLLocationManager, didUpdateLocations locations: [CLLocation]) {
         let firstLocation = locations.first!
-        currentUserLocation = Location(title: "Current Location", subtitle: "", lat: firstLocation.coordinate.latitude, lng: firstLocation.coordinate.longitude)
+//        currentUserLocation = Location(title: "Current Location", subtitle: "", lat: firstLocation.coordinate.latitude, lng: firstLocation.coordinate.longitude)
+                currentUserLocation = Location(title: "Current Location", subtitle: "", lat: 37.787359, lng: -122.408227)
         locationManager.stopUpdatingLocation()
     }
     
@@ -82,7 +83,11 @@ class HomeViewController: UIViewController, UITableViewDataSource, UITableViewDe
     }
     
     
+    var locationAdded = false
+    
     func mapView(_ mapView: MKMapView, didUpdate userLocation: MKUserLocation) {
+        
+        if !locationAdded{
         // zoom in to the user location
         let distance = 200.0
         let region = MKCoordinateRegion(center: userLocation.coordinate, latitudinalMeters: distance, longitudinalMeters: distance)
@@ -93,7 +98,7 @@ class HomeViewController: UIViewController, UITableViewDataSource, UITableViewDe
         let offset = 0.00075
         let coord1 = CLLocationCoordinate2D(latitude: lat - offset, longitude: lng - offset)
         let coord2 = CLLocationCoordinate2D(latitude: lat, longitude: lng + offset)
-        let coord3 = CLLocationCoordinate2D(latitude: lat, longitude: lng - offset)
+        let coord3 = CLLocationCoordinate2D(latitude: lat, longitude: lng - offset)  
         
         // create 3 vehicle annotations and add them to the mapview
         mapView.addAnnotations([
@@ -101,6 +106,9 @@ class HomeViewController: UIViewController, UITableViewDataSource, UITableViewDe
             VehicleAnnotation(coordinate: coord2),
             VehicleAnnotation(coordinate: coord3)
         ])
+        }
+        locationAdded = true
+
     }
     
     func mapView(_ mapView: MKMapView, viewFor annotation: MKAnnotation) -> MKAnnotationView? {

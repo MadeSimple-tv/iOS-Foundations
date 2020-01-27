@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "3adec6a92d20f12f501834a37e783854"
+build_time: [1577838674, 381701000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/DataPersistence/DataPersistence/ViewController.swift": [1577838674, 227598535]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/DataPersistence/DataPersistence/AppDelegate.swift": [1577830981, 880995307]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/DataPersistence/DataPersistence/SceneDelegate.swift": [1577830981, 884561431]
