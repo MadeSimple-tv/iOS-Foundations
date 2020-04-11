@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "77b3ed9c4973683e6eb9a98d39449a45"
+build_time: [1576973644, 838638000]
+inputs:
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/MadLibs/MadLibs/ViewController.swift": [1576973644, 474165814]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/MadLibs/MadLibs/AppDelegate.swift": [1576961537, 421606109]
+  "/Users/lee_bennett/Desktop/MadeSimple/Playground/MadLibs/MadLibs/SceneDelegate.swift": [1576961537, 439434456]
